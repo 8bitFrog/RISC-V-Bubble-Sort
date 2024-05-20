@@ -1,4 +1,4 @@
-# RISC-V-Bubble-Sort
+# RISC-V Bubble Sort
 This is my implementation of the Bubble Sort algorithm using the RISC-V assembly language! 
 The code initializes an array of 15 integers and then proceeds to sort the array in ascending order.
 
